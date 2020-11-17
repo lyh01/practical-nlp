@@ -38,27 +38,27 @@ Currently, we are using TF1.x. We will migrate to TF2.x in the coming months.
 
 ### Chapterwise folders:
 
-  * [Chapter 1: NLP: A Primer](https://github.com/practical-nlp/practical-nlp/tree/master/Ch1) (only figures & outline)
+  * [Chapter 1: NLP: A Primer](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch1) (only figures & outline)
 
-  * [Chapter 2: NLP Pipeline](https://github.com/practical-nlp/practical-nlp/tree/master/Ch2) 
+  * [Chapter 2: NLP Pipeline](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch2) 
 
-  * [Chapter 3: Text Representation](https://github.com/practical-nlp/practical-nlp/tree/master/Ch3) 
+  * [Chapter 3: Text Representation](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch3) 
 
-  * [Chapter 4: Text Classification](https://github.com/practical-nlp/practical-nlp/tree/master/Ch4) 
+  * [Chapter 4: Text Classification](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch4) 
   
-  * [Chapter 5: Information Extraction](https://github.com/practical-nlp/practical-nlp/tree/master/Ch5) 
+  * [Chapter 5: Information Extraction](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch5) 
   
-  * [Chapter 6: ChatBots](https://github.com/practical-nlp/practical-nlp/tree/master/Ch6) 
+  * [Chapter 6: ChatBots](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch6) 
   
-  * [Chapter 7: Topics in Brief](https://github.com/practical-nlp/practical-nlp/tree/master/Ch7) 
+  * [Chapter 7: Topics in Brief](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch7) 
   
-  * [Chapter 8: Social Media](https://github.com/practical-nlp/practical-nlp/tree/master/Ch8) 
+  * [Chapter 8: Social Media](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch8) 
     
-  * [Chapter 9: E-commerce and Retail ](https://github.com/practical-nlp/practical-nlp/tree/master/Ch9)
+  * [Chapter 9: E-commerce and Retail ](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch9)
 
-  * [Chapter 10: Healthcare, Finance and Law](https://github.com/practical-nlp/practical-nlp/tree/master/Ch10) 
+  * [Chapter 10: Healthcare, Finance and Law](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch10) 
     
-  * [Chapter 11: End-to-End NLP Process](https://github.com/practical-nlp/practical-nlp/tree/master/Ch11)
+  * [Chapter 11: End-to-End NLP Process](https://github.com/lyh01/practical-nlp/tree/studygroup/Ch11)
 
 
 **Contributors to Codebase:**
