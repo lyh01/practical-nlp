@@ -6,3 +6,7 @@
 *delete-me*
 *.yml
 *.yaml
+*.gzip
+*.gz
+*.zip
+*.GZ
