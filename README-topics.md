@@ -21,4 +21,4 @@
 - Use MLOps / AIOps to deploy model
 - CI/CD, canary deployment
 - Authentication/access-token using OAuth and social media logins
-- GitHub basics and actions?
+- GitHub basics and GitHub Actions (MLOps / AIOps / DevOps)?
