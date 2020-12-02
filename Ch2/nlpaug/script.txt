@@ -1,0 +1,36 @@
+﻿# Generate requirements.txt
+pipreqs . —-force
+
+# Upload to pypl
+https://packaging.python.org/tutorials/packaging-projects/
+python -m pip install --user --upgrade setuptools wheel
+python -m pip install --user --upgrade twine
+python setup.py bdist_wheel --bdist-dir ~/temp/bdistwheel
+python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/* --verbose
+python -m twine upload dist/* --verbose
+
+# Code Coverage
+coverage run test/run_test.py && coverage html --include=./**
+
+# Build Document
+cd docs
+make clean && make html -a
+
+# Setup new environment in Window
+conda install jupyter
+pip install numpy requests
+pip install torch===1.2.0 -f https://download.pytorch.org/whl/torch_stable.html
+pip install pytorch_pretrained_bert>=1.1.0
+
+# Install torch (for Linux)
+pip install torch torchvision 
+
+# Install fairfeq
+pip install subword_nmt sacremoses fastBPE
+sudo apt-get update
+sudo apt-get install gcc
+sudo apt-get install g++
+pip install sacrebleu
+git clone https://github.com/pytorch/fairseq
+cd fairseq
+python setup.py build develop
