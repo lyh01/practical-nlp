@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 **/.ipynb_checkpoints
+<<<<<<< HEAD
 *.bin
 *junk*
 *delete-me*
@@ -10,3 +11,12 @@
 *.gz
 *.zip
 *.GZ
+=======
+*junk*
+pythonenv*
+*.bin
+*.gz
+*.yaml
+*.yml
+*.sh
+>>>>>>> 667f468 (init)
