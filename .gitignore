@@ -11,6 +11,9 @@
 *.gz
 *.zip
 *.GZ
+*Data*
+*_data*
+*.txt
 =======
 pythonenv*
 *.bin
